@@ -31,13 +31,6 @@
   </head>
 
   <body>
- <nav class="navbar navbar-default navbar-static-top">
-  <div class="container">
-    <ul class="nav navbar-nav navbar-right">
-       <li><a href="https://github.com/freedomkk-qfeng/nginx-ldap-auth">GITHUB</a></li>
-    </ul>
-  </div>
-</nav>
     <div class="container">
 	    <form action="/login" method="post" class="form-signin">
 		{{ .xsrfdata }}
@@ -71,7 +64,7 @@
 
     <footer class="footer">
       <div class="container" class="center-block">
-        <p class="text-muted">Copyright © 2017 freedomkk-qfeng</p>
+        <p class="text-muted">Copyright © 2017</p>
       </div>
     </footer>
 
