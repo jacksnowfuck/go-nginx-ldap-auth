@@ -13,7 +13,7 @@ Golang 实现
 
 #### Install
 ```
-# tar -zxvf nginx-ldap-auth-0.1.tar.gz 
+# tar -zxvf nginx-ldap-auth-0.1.3.tar.gz 
 # cp nginx.conf /etc/nginx/nginx.conf
 # mv cfg.example.json cfg.json // and change it 
 # service nginx reload
