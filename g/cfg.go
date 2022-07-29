@@ -7,7 +7,8 @@ import (
 
 	"sync"
 
-	"github.com/shanghai-edu/nginx-ldap-auth/utils"
+	"nginx-ldap-auth/utils"
+
 	"github.com/toolkits/file"
 )
 
